@@ -7,8 +7,8 @@ cache_dir = '.\.cache'
 requirements = []
 [contracts.electron-scoring]
 path = 'contracts/electron-scoring.clar'
-clarity_version = 3
-epoch = 3.0
+clarity_version = 2
+epoch = 2.4
 [repl.analysis]
 passes = ['check_checker']
 
